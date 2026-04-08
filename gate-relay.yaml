@@ -31,7 +31,7 @@ web_server:
   ota: false
   auth:
     username: user
-    password: Merss320
+    password: ******
  
 
 captive_portal:
